@@ -86,7 +86,7 @@ pytest-asyncio = "^0.20.3"
 ruff = "^0.0.249"
 types-toml = "^0.10.8.1"
 types-redis = "^4.3.21.6"
-black = "^23.1.0"
+black = ">=23.1,<25.0"
 
 [tool.poetry.group.typing.dependencies]
 mypy = "^0.991"
